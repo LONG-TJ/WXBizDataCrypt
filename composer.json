@@ -1,0 +1,12 @@
+{
+    "name": "ltj/wx-biz-data-crypt",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tj Long",
+            "email": "2280385683@qq.com"
+        }
+    ],
+    "require": {}
+}
