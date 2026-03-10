@@ -1,10 +1,10 @@
 {
-    "name": "ltj/wx-biz-data-crypt",
+    "name": "ltj/wxbizdatacrypt",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ltj\\WxBizDataCrypt\\": "src/"
+            "Ltj\\Wxbizdatacrypt\\": "src/"
         }
     },
     "authors": [

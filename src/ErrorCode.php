@@ -1,5 +1,7 @@
 <?php
 
+namespace WXBizDataCrypt;
+
 /**
  * error code 说明.
  * -41001: encodingAesKey 非法
