@@ -2,11 +2,17 @@
     "name": "ltj/wx-biz-data-crypt",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ltj\\WxBizDataCrypt\\": "src/"
+        }
+    },
     "authors": [
         {
-            "name": "Tj Long",
+            "name": "LONG-TJ",
             "email": "2280385683@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
