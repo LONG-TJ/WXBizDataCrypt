@@ -1,6 +1,6 @@
 <?php
 
-namespace Ltj\Wxbizdatacrypt;
+namespace ltj\wxbizdatacrypt;
 
 /**
  * error code 说明.
